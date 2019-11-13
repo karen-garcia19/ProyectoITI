@@ -1279,7 +1279,8 @@
 				<div class="row">
 					<div class="col-xl-7">
 
-						<!-- Traffic sources -->
+						<!--<!-- Traffic sources -->
+						<!--
 						<div class="card">
 							<div class="card-header header-elements-inline">
 								<h6 class="card-title">Fuentes de Tráfico</h6>
@@ -1337,7 +1338,7 @@
 							</div>
 
 							<div class="chart position-relative" id="traffic-sources"></div>
-						</div>
+						</div>/-->
 						<!-- /traffic sources -->
 
 					</div>
